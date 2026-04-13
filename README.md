@@ -11,8 +11,7 @@
 <h2 align="center">About Me</h2>
 
 - 🔌 Electronics student passionate about **embedded systems**, **IoT**, and **low-level programming**.
-- 🛠️ I love building things from scratch and understanding how they actually work **under the hood**.
-- 🤖 Working towards **TinyML** — running AI on microcontrollers is where I want to be.
+- 🛠️ I love building things from scratch and understanding how they actually work **under the hood**
 - 🌐 Also interested in **networking**, **FPGA design**, and **graphics programming**.
 - 📡 **Content creator** — sharing embedded systems & IoT content on Instagram!
 - ⚡ Daily driver: **Linux + PlatformIO**.
@@ -23,11 +22,11 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=nouhhammchi&theme=github-dark&hide_border=true" height="165" alt="streak stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=99s7ck1gc&theme=github_dark" height="165" alt="languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nouhhammchi&theme=github_dark" height="165" alt="languages"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=99s7ck1gc&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" alt="github stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nouhhammachi&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" alt="github stats"/>
 </div>
 
 ---
@@ -60,7 +59,7 @@
   <a href="https://www.instagram.com/engineering_with_nouh/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Instagram" />
   </a>
-  <a href="https://www.linkedin.com/in/hammachi-nouh-abdelbasset" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/hammachi-nouh-abdelbasset-123445336/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="LinkedIn" />
   </a>
 </div>
