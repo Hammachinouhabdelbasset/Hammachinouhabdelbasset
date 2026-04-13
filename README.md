@@ -19,12 +19,12 @@
 <h2 align="center">My Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=99s7ck1gc&theme=github-dark&hide_border=true" height="165" alt="streak stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=hammachinouh&theme=github-dark&hide_border=true" height="165" alt="streak stats"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=99s7ck1gc&theme=github_dark" height="165" alt="languages"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=99s7ck1gc&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" alt="github stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hammachinouh&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" alt="github stats"/>
 </div>
 
 ---
