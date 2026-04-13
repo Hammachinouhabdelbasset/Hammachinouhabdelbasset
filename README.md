@@ -1,4 +1,4 @@
-# Hey, I'm 99s7ck1gc! Nice to Meet You! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hey, I'm nouhhammachi! Nice to Meet You! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <div align="center">
 
@@ -22,7 +22,7 @@
 <h2 align="center">My Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=99s7ck1gc&theme=github-dark&hide_border=true" height="165" alt="streak stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nouhhammchi&theme=github-dark&hide_border=true" height="165" alt="streak stats"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=99s7ck1gc&theme=github_dark" height="165" alt="languages"/>
 </div>
 
@@ -57,7 +57,7 @@
 <h2 align="center">Find Me</h2>
 
 <div align="center">
-  <a href="https://www.instagram.com/99s7ck4gc/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.instagram.com/engineering_with_nouh/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Instagram" />
   </a>
   <a href="https://www.linkedin.com/in/hammachi-nouh-abdelbasset" target="_blank" rel="noopener noreferrer">
@@ -68,5 +68,5 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=99s7ck1gc&style=flat-square&color=00FF88" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=nouhhammachi&style=flat-square&color=00FF88" alt="Profile views" />
 </div>
