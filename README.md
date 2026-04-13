@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=2500&pause=800&color=00FF88&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=%E2%9D%AF+whoami+%E2%86%92+99s7ck1gc;%2F%2F+Embedded+Systems+%7C+IoT+%7C+Content+Creator+%F0%9F%93%A1;%24+Flashing+firmware+to+ESP32...+%E2%9C%94;%24+Building+TinyML+on+microcontrollers+%F0%9F%A4%96;%24+STM32+%7C+AVR+%7C+FPGA+%7C+Linux+hacker+%F0%9F%90%A7)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=2500&pause=800&color=00FF88&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=%E2%9D%AF+whoami+%E2%86%92+nouhhammachi;%2F%2F+Embedded+Systems+%7C+IoT+%7C+Content+Creator+%F0%9F%93%A1;%24+Flashing+firmware+to+ESP32...+%E2%9C%94;%24+Building+TinyML+on+microcontrollers+%F0%9F%A4%96;%24+STM32+%7C+AVR+%7C+FPGA+%7C+Linux+hacker+%F0%9F%90%A7)](https://git.io/typing-svg)
 
 </div>
 
@@ -21,8 +21,8 @@
 <h2 align="center">My Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nouhhammchi&theme=github-dark&hide_border=true" height="165" alt="streak stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nouhhammchi&theme=github_dark" height="165" alt="languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nouhhammachi&theme=github-dark&hide_border=true" height="165" alt="streak stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nouhhammachi&theme=github_dark" height="165" alt="languages"/>
 </div>
 
 <div align="center">
@@ -67,5 +67,4 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nouhhammachi&style=flat-square&color=00FF88" alt="Profile views" />
-</div>
+  <img src="
